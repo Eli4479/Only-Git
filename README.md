@@ -1,3 +1,5 @@
+---
+
 # Git Lifetime Notes
 
 Below are Git commands you will use throughout your development life.
@@ -22,8 +24,11 @@ Categories are organized for clarity.
 13. [Picking Commits](#picking-commits)
 14. [Debugging With Bisect](#debugging-with-bisect)
 15. [Tagging](#tagging)
+16. [Resources](#resources)
 
 ---
+
+
 
 # Logging & History
 
@@ -366,5 +371,14 @@ Git Bisect finds the commit that introduced a bug.
 ### `git tag -a "tagname" -m "message"`
 
 Create an annotated tag.
+
+---
+
+# Resources
+
+Here are some excellent courses to **learn Git in depth**:
+
+* [Learn Git - Boot.dev Course 1](https://www.boot.dev/courses/learn-git)
+* [Learn Git - Boot.dev Course 2](https://www.boot.dev/courses/learn-git-2)
 
 ---
